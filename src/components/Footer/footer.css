@@ -1,0 +1,22 @@
+footer {
+  background-color: #603c2f;
+  border: none;
+}
+
+
+#footer_items {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 8% 24px 8%;
+  align-items: center;
+}
+
+#copyright {
+  color: black;
+  font-weight: 500;
+}
+
+
+footer .social-media-buttons a{
+  color: black;
+}
